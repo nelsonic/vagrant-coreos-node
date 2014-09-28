@@ -26,3 +26,4 @@ quite big: https://github.com/coreos/coreos-vagrant
 
 
 - Node: http://blog.xebia.com/2014/06/18/deploying-a-node-js-app-to-docker-on-coreos-using-deis/
+- http://www.centurylinklabs.com/building-your-first-app-on-coreos/
