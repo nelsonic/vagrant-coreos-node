@@ -18,3 +18,8 @@ Read the following:
 
 
 ## How?
+
+> https://coreos.com/docs/running-coreos/platforms/vagrant/
+
+it appears that the **Vagrantfile** for CoreOS is
+quite big: https://github.com/coreos/coreos-vagrant
