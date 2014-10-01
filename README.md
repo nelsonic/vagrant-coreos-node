@@ -9,6 +9,9 @@ CoreOS uses less memory than Ubuntu.
 Which means both your development & production environments
 use fewer resources (less RAM means less money...)
 
+- CoreOS CEO Alex Polvi explains:
+http://www.activestate.com/blog/2013/08/alex-polvi-explains-coreos
+
 ## What?
 
 Read the following:
